@@ -6,7 +6,7 @@
 - Pursuing B.Tech from National Institute of Technology, Silchar.
 - Passionate about building and developing new things.
 - Currently learning Backend development and foundations of ML.
-- Fun fact: I love coffee! ☕
+- Fun fact: *I love coffee!* ☕
 
 Thanks for stopping by!
 
