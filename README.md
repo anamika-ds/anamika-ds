@@ -2,7 +2,7 @@
 
 ## I'm a Frontend developer and a machine learning enthusiast!
 
-- Interested in web development, data engineering and machine learning.
+- Interested in web development, data science and machine learning.
 - Pursuing B.Tech from National Institute of Technology, Silchar.
 - Passionate about building and developing new things.
 - Currently learning Backend development and foundations of ML.
